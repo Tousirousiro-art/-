@@ -161,7 +161,7 @@ PCで作業していた調査ログ（`research_log_raw.txt`）と、最終版�
 
 | 名前 | 所属 | Xハンドル | 備考 |
 |---|---|---|---|
-| 麻倉シノ | Neo-Porte | @Shino_Asakura | |
+| 麻倉シノ | Neo-Porte | @Shino_Asakura5 | 写真: images/photo_asakurashino.jpeg |
 | 秋雪こはく | REJECT | @Syusetu_kohaku | |
 | 十神仁 | YUMENOS | @jin_togami | |
 | 群青ロマン | ゆにれいど！ | @GunjoRoman | |
