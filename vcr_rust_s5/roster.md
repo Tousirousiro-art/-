@@ -197,6 +197,7 @@ PCで作業していた調査ログ（`research_log_raw.txt`）と、最終版�
 | marunnn | — | — | ブログ上の表記「まるーん」は同一人物（重複ではない） |
 | 黒花蘭 | — | @kurobanaran | 「配信告知」投稿で参加確認、写真: images/photo_kurobanaran.jpeg |
 | ゆふな | — | @_YFNA | 写真: images/photo_yufuna.jpeg |
+| 赤髪のとも | — | @tomo0723sw | 写真: images/photo_akagaminotomo.jpeg |
 
 ### ログ時点で「未確定」として保留されていたが、最終画像には収録されていた候補
 恭一郎、するがモンキー、ちーの、Vanilla、Tonbo、ろぜっくぴん、ぐちつぼ、Pepper、麻倉シノ、麻婆豆腐、千燈ゆうひ、アルス・アルマル、叶、Selly、夜よいち、Zerost
